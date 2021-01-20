@@ -1,24 +1,27 @@
 html{
 	
-	background: url(ibis-bird-red-animals-158471.jpeg) no-repeat center center fixed; 
-	  -webkit-background-size: cover;
-	  -moz-background-size: cover;
-	  -o-background-size: cover;
-	  background-size: cover;
+	
 }
 body {
 
 }
+h2{
+color: orangered;
+font-family: 'Times New Roman', Times, serif;
+}
 h1 {
-color: Black;
-font-family: timesnewroman;
+color: orangered;
+font-family: 'Times New Roman', Times, serif;
 }
 p{
+	color: orangered;
+	font-family: 'Times New Roman', Times, serif;
 	border: 1px solid rgb(255, 179, 170); 
 }
 
+
 .details {
-	background-color: rgba(255, 179, 170, 0.2);
+	color: orangered;
 }
 
 img:hover{
